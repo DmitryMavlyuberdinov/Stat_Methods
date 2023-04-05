@@ -1,2 +1,2 @@
 # Stat_Methods
-Homework for course Statistics Methods 
+Projects/Homework for course Statistics Methods 
